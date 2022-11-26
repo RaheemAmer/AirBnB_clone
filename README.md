@@ -1,5 +1,5 @@
 
-<p align="center">An AirBnB clone.</p>
+# An AirBnB clone
 
 ---
 
